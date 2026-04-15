@@ -75,6 +75,11 @@ The UI only shows clean playlist snapshots using a table, so the user focuses on
  - A live-updating table in the Gradio interface showing the playlist being sorted step-by-step
  - A status message showing the current sort type and order
 
+**FlowChart:**
+
+![](FlowChart.jpeg)
+
+---------------------------------------------------------
 
 ### Data Structures Used
  - **List of dictionaries**: Used to store the playlist (each song is a dictionary)
@@ -101,7 +106,7 @@ The UI only shows clean playlist snapshots using a table, so the user focuses on
 ---------------------------------------------------------
 
 ## Hugging Face Link
-
+https://huggingface.co/spaces/Esiniye/PlaylistVibeBuilder
 
 ---------------------------------------------------------
 
