@@ -17,6 +17,7 @@ The following screenshot shows the output produced after running a demo version 
 After looking through my code, I realised the issue was caused by the DataFrame changing size between sorting frames. Since Merge Sort produces intermediate states with different list lengths during merging, the table would sometimes shrink depending on the current step.
 
 To fix this, I updated the Gradio DataFrame output so the table size stays consistent across all frames by adding placeholder rows when needed. This keeps the animation stable and easier to follow.
+
 ---------------------------------------------------------
 
 # Problem Breakdown & Computational Thinking
