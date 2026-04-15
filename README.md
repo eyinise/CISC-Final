@@ -107,11 +107,11 @@ The UI only shows clean playlist snapshots using a table, so the user focuses on
 
 ## Testing :
 The following tests were performed:
-- Sorted playlist by Energy Score, Duration, and Popularity
+- Sorted playlist by Energy Score, Duration, and Popularity (as shown above)
 - Tested ascending and descending order for each attribute
 - Verified correct sorting behavior with duplicate values
 - Tested already sorted playlist to observe best-case behavior
-- Tested minimal playlist (1–2 songs) to verify base case handling
+- Tested minimal playlist (1–2 songs) to verify base case handling (as shown above)
 
 Edge cases handled:
 - Duplicate attribute values
