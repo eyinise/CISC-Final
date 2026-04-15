@@ -10,7 +10,7 @@ Merge Sort was chosen because it is efficient (O(n log n)) and naturally works t
 ---------------------------------------------------------
 
 ## Demo video/gif/screenshot of test
-![](Screenshot_15-4-2026_13413_127.0.0.1-1.jpeg)
+![](TestingSS.jpeg)
 
 The following screenshot shows the output produced after running a demo version of the code. This test used a smaller playlist containing four songs. However, during initial testing, only part of the songs were visible in the output display at certain stages of the animation. At first, this looked like a layout issue in the interface, since entering full-screen mode allowed all songs to be displayed correctly and in the expected order.
 
