@@ -1,0 +1,10 @@
+DEPENDENCIES
+
+This project uses the following Python libraries:
+1. Gradio - used to build the interactive user interface and display the live sorting animation.
+2. Pandas - used to format and display the playlist data in a clean table format.
+
+Note : Python 3.8 or higher is recommended.
+
+Installation:
+pip install gradio pandas
